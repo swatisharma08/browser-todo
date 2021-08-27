@@ -1,7 +1,3 @@
-# browser-todo
-
-> A todo which lives in your browser [Live Here](http://manojsinghnegi.com/browserTodo/)
-
 ## Build Setup
 
 ``` bash
